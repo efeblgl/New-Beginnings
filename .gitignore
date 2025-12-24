@@ -1,3 +1,24 @@
-﻿.vs/
+# .NET
 bin/
 obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
