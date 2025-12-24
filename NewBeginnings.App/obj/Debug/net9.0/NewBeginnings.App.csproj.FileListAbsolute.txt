@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\bin\Debug\net9.0\NewBeginnings.App.exe
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\bin\Debug\net9.0\NewBeginnings.App.deps.json
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\bin\Debug\net9.0\NewBeginnings.App.runtimeconfig.json
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\bin\Debug\net9.0\NewBeginnings.App.dll
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\bin\Debug\net9.0\NewBeginnings.App.pdb
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.AssemblyInfo.cs
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.sourcelink.json
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.dll
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\refint\NewBeginnings.App.dll
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.pdb
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\NewBeginnings.App.genruntimeconfig.cache
+C:\Users\User\source\repos\New-Beginnings\NewBeginnings.App\obj\Debug\net9.0\ref\NewBeginnings.App.dll
